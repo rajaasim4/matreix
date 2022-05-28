@@ -27,7 +27,7 @@ body {
       rgba(0, 0, 0, 0.6) 50%,
       rgba(0, 0, 0, 0.6) 50%
     ),
-    url("/assets/bg.jpg");
+    url("assets/bg.jpg");
   background-size: cover;
 }
 .Container_logo {
@@ -77,7 +77,7 @@ body {
 .Container_last_sub {
   height: 11.3rem;
   width: 80rem;
-  background-image: url("/assets/top-bg.png");
+  background-image: url("assets/top-bg.png");
   background-size: cover;
   padding: 1.8rem 1.8rem;
   z-index: 9999;
@@ -223,7 +223,7 @@ body {
   height: 100%;
   z-index: 2;
   background-size: cover;
-  background-image: url("/assets//right-bg.png");
+  background-image: url("assets//right-bg.png");
   position: relative;
   width: 95%;
   top: -11rem;
